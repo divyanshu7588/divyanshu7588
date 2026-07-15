@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Backend Developer & AI Enthusiast | BCA Graduate | MCA (Data Science) | Building scalable backend applications with Django, DRF, LangChain & Agentic AI while exploring LLMs, RAG, and AI Automation.
 
 
